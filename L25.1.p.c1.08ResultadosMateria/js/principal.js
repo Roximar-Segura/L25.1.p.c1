@@ -33,6 +33,7 @@ materia.procesarEstudiante(Est7);
 materia.procesarEstudiante(Est8);
 
 let salida = document.getElementById("salida");
+
 salida.innerHTML = `
 <br> Cantidad de aprobados: ${materia.EstAprobados()}
 <br> Cantidad de reprobados: ${materia.EstReprobados()}
