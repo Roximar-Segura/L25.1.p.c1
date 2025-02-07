@@ -1,10 +1,10 @@
 export default class CL_Juego{
-    constructor(partido){
-        this.partido = partido;
+    constructor(p){
+        this.partido = p;
     }
 
-    set partido(partido){
-        this._partido = partido;
+    set partido(p){
+        this._partido = p;
     }
 
     get partido(){
