@@ -2,9 +2,9 @@
  * FÚTBOL
 Conociendo los resultados de varios Juegos de tu equipo de fútbol, donde 1 es ganar y 0 es
 perder, hacer un programa que indique el porcentaJe de Juegos que ganaste.
-EJ. Resultados de 6 Juegos: 1, 1, 0, 1, 0, 1, 1
+EJ. Resultados de 7 Juegos: 1, 1, 0, 1, 0, 1, 1
 la salida requerida presenta el siguiente formato:
-Ganaste el 66.67% de los Juegos
+Ganaste el 71.42% de los Juegos
  */
 
 import CL_Juego from "./CL_Juego.js";
